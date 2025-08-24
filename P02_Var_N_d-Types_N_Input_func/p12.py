@@ -1,0 +1,5 @@
+a=int(input("Enter a number:"))
+b=int(input("Enter another number:"))
+print("If a is greater than b:", a > b)
+print('average of the two numbers is:', (a + b) / 2)
+print("a being squared is:", a ** 2)

@@ -1,0 +1,25 @@
+Aman is a good boi
+Welcome to "Mastering HTML: From Beginner to Pro." This book is designed to take you from your
+first line of HTML code to developing complete front-end projects integrated with various
+programming languages like Python, JavaScript, Java, and C/C++, as well as databases like SQL.
+Through practical examples, quizzes, and real-world projects, you'll master the essentials of web
+development.
+Table of Contents
+1. What is HTML?
+2. Setting Up Your Development Environment
+3. HTML Document Structure
+4. Headings, Paragraphs, Text Formatting
+5. Lists and Tables
+6. Forms and User Input
+7. Links, Images & Media
+8. HTML5 APIs & Advanced Features
+9. HTML + CSS Integration
+10. Forms and User Input (Deep Dive)
+11. HTML + JavaScript Integration
+12. HTML + Python (Flask Example)
+13. HTML + Java (Servlet Example)
+14. HTML + C/C++ via WebAssembly
+15. HTML + SQL (Front-End to DB)
+16. Full Web App Project - HTML + Backend + Database
+17. Final Notes, Resources & Developer Path
+18. Bonus - Advanced HTML Tips, Debugging & Optimization
