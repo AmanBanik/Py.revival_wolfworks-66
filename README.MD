@@ -70,7 +70,7 @@ python --version
 pip install pygame numpy matplotlib pillow
 
 # For AI/Voice projects (optional)
-pip install openai speechrecognition pyttsx3
+pip install google.generativeai speechrecognition pyttsx3
 
 # For advanced graphics (optional)
 pip install pywin32  # Windows only
